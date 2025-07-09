@@ -1,0 +1,8 @@
+==== New Game Started ====
+Difficulty: 1-10
+Target (hidden): 3
+Attempt 1 : 23
+Attempt 2 : 1
+Attempt 3 : 5
+Attempt 4 : 3
+✅ Result: SUCCESS
